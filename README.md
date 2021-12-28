@@ -7,3 +7,4 @@ attempt to create a Sentiment Analysis model using Word2Vec/GloVe word embedding
 I intend on making further improvements to the code, any suggestions as issues/PRs are welcome.
 
 ## Update Logs:
+  - Coursework submission uploaded to github - 28/12/21 
